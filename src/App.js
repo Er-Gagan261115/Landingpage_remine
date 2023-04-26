@@ -15,11 +15,11 @@ function App() {
         <main>
 
           <div className='firstdivmain '>
-            <img src="https://t4.ftcdn.net/jpg/05/55/32/99/360_F_555329972_7CNEDOvl34YykCyeoRe8dMbF5yNTcDRE.jpg"></img>
+            <img src="https://t4.ftcdn.net/jpg/05/55/32/99/360_F_555329972_7CNEDOvl34YykCyeoRe8dMbF5yNTcDRE.jpg" alt=""></img>
             <h2 style={{
               textAlign: "center"
-            }}>Building <br />Sustainable Managment</h2>
-            <img src="https://t4.ftcdn.net/jpg/05/75/28/67/360_F_575286707_XWzAVa98BubEYQjAy2LsfRWXDCgc2gJT.jpg"></img>
+            }}>Building <br />Sustainable Management</h2>
+            <img src="https://t4.ftcdn.net/jpg/05/75/28/67/360_F_575286707_XWzAVa98BubEYQjAy2LsfRWXDCgc2gJT.jpg" alt=""></img>
           </div>
           <div className='seconddivmain '>
             <h2>Recycling E-Waste</h2>

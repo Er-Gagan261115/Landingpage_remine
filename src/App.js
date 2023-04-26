@@ -25,26 +25,14 @@ function App() {
             <h2>Recycling E-Waste</h2>
             <div className='seconddivmain_childs'>
               <div className='seconddivmain_childs_common'>What is E-Waste?
-                <p style={{
-                  marginTop: "20px",
-                  fontSize: "18px",
-                  textAlign: "justify"
-                }}>
+                <p >
                   Electronic waste (e-waste), is a generic term used to describe all types of old, end-of-life or discarded electrical and electronic equipment, such as household appliances; office information and communications equipment; entertainment and consumer electronic equipment</p>
               </div>
               <div className='seconddivmain_childs_common'>Why Recycle E-Waste?
-                <p style={{
-                  marginTop: "20px",
-                  fontSize: "18px",
-                  textAlign: "justify"
-                }}>
+                <p >
                   The recycling of e-waste serves a lot of useful purposes. For instance, include protecting human and environmental health by keeping those devices out of landfills. Or recovering the parts within the devices that still have value, and providing manufacturers with recycled metals that can be used to make new products.</p></div>
               <div className='seconddivmain_childs_common'>Why us?
-                <p style={{
-                  marginTop: "20px",
-                  fontSize: "18px",
-                  textAlign: "justify"
-                }}>
+                <p >
                    Remine is Empowering clean and Green Nation by recycling E-waste and Li Batteries.  </p></div>
 
             </div>

@@ -117,7 +117,11 @@
   text-align: center;
 
 }
-
+.seconddivmain_childs_common > p{
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: justify;
+}
 .seconddivmain_childs_common:hover {
   background-color: rgb(255, 255, 255);
 }
@@ -273,11 +277,14 @@ footer {
     margin-right: auto;
     background-color: rgb(254, 242, 24);
     box-shadow: 0 5px 12px rgba(0, 0, 0, 0.274);
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
-    padding: 20px;
+    padding: 15px;
     transition: .5s;
     text-align: center;
   
+  }
+  .seconddivmain_childs_common > p{
+    font-size: 14px;
   }
 }

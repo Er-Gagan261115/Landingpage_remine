@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Landingpage_remine/static/css/main.79eed1f8.css",
+    "main.js": "/Landingpage_remine/static/js/main.77c497c1.js",
+    "static/js/787.0472073a.chunk.js": "/Landingpage_remine/static/js/787.0472073a.chunk.js",
+    "index.html": "/Landingpage_remine/index.html",
+    "main.79eed1f8.css.map": "/Landingpage_remine/static/css/main.79eed1f8.css.map",
+    "main.77c497c1.js.map": "/Landingpage_remine/static/js/main.77c497c1.js.map",
+    "787.0472073a.chunk.js.map": "/Landingpage_remine/static/js/787.0472073a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79eed1f8.css",
+    "static/js/main.77c497c1.js"
+  ]
+}
